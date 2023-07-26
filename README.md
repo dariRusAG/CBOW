@@ -11,6 +11,6 @@
 - https://webdevblog.ru/gensim-rukovodstvo-dlya-nachinajushhih/
 - https://keras.io/api/
 
-## Реализация
+## Принцип работы
 1. [Презентация](https://github.com/dariRusAG/CBOW/raw/main/Презентация/Практический%20подход%20к%20методам%20глубокого%20обучения%20для%20текстовых%20данных.pptx)
 2. [Доклад](https://github.com/dariRusAG/CBOW/raw/main/Презентация/Доклад.docx)
