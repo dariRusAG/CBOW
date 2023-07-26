@@ -1,7 +1,7 @@
 # CBOW
 Реализация метода реферирования на основе нейронных сетей
 
-Связанные ссылки:
+## Ccылки:
 - https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa
 - https://github.com/Akanksha1310/text_summarization_with_kmeans/blob/master/text_summarization.py
 - https://github.com/Akanksha1310/text_summarization/blob/master/text_summarizer.py
@@ -10,3 +10,7 @@
 - https://numpy.org/doc/stable/reference/generated/numpy.vectorize.html
 - https://webdevblog.ru/gensim-rukovodstvo-dlya-nachinajushhih/
 - https://keras.io/api/
+
+## Реализация
+1. [Презентация](https://github.com/dariRusAG/CBOW/raw/main/Презентация/Практический%20подход%20к%20методам%20глубокого%20обучения%20для%20текстовых%20данных.pptx)
+2. [Доклад](https://github.com/dariRusAG/CBOW/raw/main/Презентация/Доклад.docx)
